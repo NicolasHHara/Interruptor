@@ -1,0 +1,36 @@
+.container{
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 40%;
+    height: 500px;
+    margin-left: 30%;
+    background-color: whitesmoke;
+}
+#inicial{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+#Off{
+    margin-left: 180px;
+    height: 40px;
+    width: 60px;
+    font-size: 18px;
+    background-color: crimson;
+    border: 0px;
+    border-radius: 8px;
+    display: block;
+    float: left;
+    margin-top: 40px;
+}
+#On{
+    margin-left: 15px;
+    height: 40px;
+    width: 60px;
+    font-size: 18px;
+    background-color: greenyellow;
+    border: 0px;
+    border-radius: 8px;
+    margin-top: 40px; 
+}
